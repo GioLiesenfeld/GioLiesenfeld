@@ -116,7 +116,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-origi
   <img 
     align="left" 
     height="180em" 
-    src="https://github-readme-stats-delta-black-59.vercel.app/api/top-langs/?username=GioLiesenfeld&theme=github_dark&layout=compact&custom_title=Tecnologias" 
+    src="https://github-readme-stats-delta-black-59.vercel.app/api/top-langs/?username=GioLiesenfeld&theme=github_dark&layout=compact&custom_title=Tecnologias&v=1" 
   />
 </p>
 
