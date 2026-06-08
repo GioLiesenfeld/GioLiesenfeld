@@ -36,8 +36,8 @@ Estudante de Análise e Desenvolvimento de Sistemas, iniciei minha trajetória n
 
 <img 
 align="left"
-alt="HTML"
-title="HTML"
+alt="Python"
+title="Python"
 width="30px"
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
@@ -45,8 +45,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-ori
          
 <img 
 align="left"
-alt="HTML"
-title="HTML"
+alt="C#"
+title="C#"
 width="30px"
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
@@ -63,40 +63,32 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-origi
 
 <img 
 align="left"
-alt="HTML"
-title="HTML"
+alt="CSS"
+title="CSS"
 width="30px"
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 
 <img 
 align="left"
-alt="HTML"
-title="HTML"
+alt="Git"
+title="Git"
 width="30px"
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-        
-<img 
-align="left"
-alt="HTML"
-title="HTML"
-width="30px"
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 
 <img 
 align="left"
-alt="HTML"
-title="HTML"
+alt="Visual Studio Code"
+title="Visual Studio Code"
 width="30px"
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 
 <img 
 align="left"
-alt="HTML"
-title="HTML"
+alt="MySql"
+title="MySql"
 width="30px"
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
